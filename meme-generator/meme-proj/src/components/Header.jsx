@@ -11,7 +11,7 @@ function Header(){
           className="header--image"
         />
         <h1 className="header--title">Meme Generator</h1>
-        <h4 className="header--info">Made by: Dennis Corral</h4>
+        <h3 className="header--info">Made by: Dennis</h3>
       </div>
     );
 }
